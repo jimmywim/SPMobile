@@ -11,6 +11,8 @@ This version supports:
 
 Usage
 -----
+First of all, include SPMobile.h in each page where you're using the library.
+
 
     Authentication *auth;
     
