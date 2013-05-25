@@ -1,6 +1,6 @@
 //
 //  SPOAuthentication.m
-//  SPRocket
+//  SPMobile
 //
 //  Created by James Love on 15/05/2013.
 //

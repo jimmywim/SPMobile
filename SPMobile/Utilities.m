@@ -1,6 +1,6 @@
 //
 //  Utilities.m
-//  HelloWorld
+//  SPMobile
 //
 //  Created by James Love on 10/05/2013.
 //
