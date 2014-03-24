@@ -28,12 +28,12 @@ First of all, include SPMobile.h in each page where you're using the library.
 Authentication Delegates
 -
 
-    - (void)authentication: (SPAuthentication *)didAuthenticate
+    - (void)authentication: (SPOAuthentication *)didAuthenticate
     {
       // Do something cool now we're logged in
     }
 
-    - (void)authentication: (SPAuthentication *)didFailWithError: (NSError *)error
+    - (void)authentication: (SPOAuthentication *)didFailWithError: (NSError *)error
     {
       // Do something helpful as Auth failed for some reason.
     }
