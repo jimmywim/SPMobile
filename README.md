@@ -26,7 +26,7 @@ First of all, include SPMobile.h in each page where you're using the library.
     
     
 Authentication Delegates
--
+- 
 
     - (void)authentication: (SPOAuthentication *)didAuthenticate
     {
